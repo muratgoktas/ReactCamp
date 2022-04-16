@@ -6,7 +6,7 @@ export default function SignedOut() {
         <div>
             <Menu.Item>
             <button primary>Giriş Yap</button>
-            <button primary style={{marginleft=0.5em}}>Kayıt Yap</button>
+            
             </Menu.Item>
         </div>
     )
